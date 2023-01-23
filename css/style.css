@@ -7,3 +7,33 @@
     width: 100%;
     background-repeat: no-repeat;
 }
+
+.img1{
+    background-image: url('../images/slider-1.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.img2{
+    background-image: url('../images/slider-2.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.img3{
+    background-image: url('../images/slider-3jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
