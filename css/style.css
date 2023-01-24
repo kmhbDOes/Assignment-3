@@ -35,5 +35,8 @@
     height: 80vh;
     width: 100%;
     background-repeat: no-repeat;
+}
 
+.accordion-button {
+    background-color: #F5F5F5;  
 }
