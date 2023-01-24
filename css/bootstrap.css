@@ -3989,7 +3989,7 @@ textarea.form-control-lg {
   font-size: 1.25rem;
   line-height: 1;
   background-color: #B68C5A;
-  border: 1px solid #080807;
+  border: 0.5px solid #080807;
   border-radius: 0.25rem;
   transition: box-shadow 0.15s ease-in-out;
 }
@@ -4009,7 +4009,7 @@ textarea.form-control-lg {
 
 .navbar-toggler-icon {
   display: inline-block;
-  width: 1.5em;
+  width: 0.01em;
   height: 1.5em;
   vertical-align: middle;
   background-repeat: no-repeat;
